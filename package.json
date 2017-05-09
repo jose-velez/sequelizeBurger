@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jose363/sequelizeBurger/issues"
   },
-  "homepage": "https://github.com/jose363/sequelizeBurger#readme"
+  "homepage": "https://github.com/jose363/sequelizeBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
 }
